@@ -9,7 +9,7 @@ import net.emmecilab.players.models.Player;
 import org.springframework.stereotype.Service;
 
 @Service
-public class PlayerServiceImpl implements PlayerService {
+public class PlayerServiceMock implements PlayerService {
 
     private List<Player> players = new ArrayList<>(Arrays.asList(new Player(Long.valueOf(1), "Francesco", "Totti", "Roma", "midfielder"),
             new Player(Long.valueOf(2), "Gonzalo", "Higuain", "Juventus", "forward"), new Player(Long.valueOf(3), "Mauro", "Icardi", "Inter", "forward")));
