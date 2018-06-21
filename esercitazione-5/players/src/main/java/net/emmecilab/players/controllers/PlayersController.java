@@ -22,7 +22,7 @@ public class PlayersController {
     @Autowired
     private PlayerServiceDB playerService;
 
-    @ApiOperation(value = "View a list of players", response = List.class)
+    @ApiOperation(value = "View a list of players")
     @ApiResponses(value = {
         @ApiResponse(code = 200, message = "Successfully retrieved list")
         ,
@@ -35,7 +35,7 @@ public class PlayersController {
         return playerService.getAllPlayers();
     }
 
-    @ApiOperation(value = "Get a player", response = List.class)
+    @ApiOperation(value = "Get a player")
     @ApiResponses(value = {
         @ApiResponse(code = 200, message = "Successfully retrieved player")
         ,
@@ -48,7 +48,7 @@ public class PlayersController {
         return playerService.getPlayer(id);
     }
 
-    @ApiOperation(value = "Add a new player", response = List.class)
+    @ApiOperation(value = "Add a new player")
     @ApiResponses(value = {
         @ApiResponse(code = 200, message = "Player added successfully")
         ,
@@ -59,7 +59,7 @@ public class PlayersController {
         playerService.addPlayer(player);
     }
 
-    @ApiOperation(value = "Update a player", response = List.class)
+    @ApiOperation(value = "Update a player")
     @ApiResponses(value = {
         @ApiResponse(code = 200, message = "Player updated successfully")
         ,
@@ -72,7 +72,7 @@ public class PlayersController {
         playerService.updatePlayer(id, player);
     }
 
-    @ApiOperation(value = "Delete a player", response = List.class)
+    @ApiOperation(value = "Delete a player")
     @ApiResponses(value = {
         @ApiResponse(code = 200, message = "Player deleted successfully")
         ,
