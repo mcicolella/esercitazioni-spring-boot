@@ -5,7 +5,7 @@ services:
   mysql-db:
     image: mysql:8.0.17
     environment:
-      MYSQL_ROOT_PASSWORD: rootpwd
+      MYSQL_ROOT_PASSWORD: root
       MYSQL_DATABASE: players
     ports:
       - "3306:3306"
@@ -13,4 +13,4 @@ services:
   admin:    
     image: adminer    
     ports:      
-      - "8080:8080"
+      - "9999:8080"

@@ -5,8 +5,8 @@ services:
     image: mysql:latest
     container_name: mysql_db
     environment:
-      MYSQL_USER: user
-      MYSQL_PASSWORD: user
+      MYSQL_USER: root
+      MYSQL_PASSWORD: root
       MYSQL_ROOT_PASSWORD: root
       MYSQL_DATABASE: players
 
