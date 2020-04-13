@@ -9,3 +9,4 @@ Questo repository contiene il codice relativo ad una serie di esercitazioni su S
 * [Esercitazioni di Spring Boot 4: lavorare con i database](https://www.emmecilab.net/esercitazioni-di-spring-boot-4-lavorare-con-i-database/)
 * [Esercitazioni di Spring Boot 5: documentiamo le API](https://www.emmecilab.net/esercitazioni-di-spring-boot-5-documentiamo-le-api/)
 * [Esercitazioni di Spring Boot 6: fare il deploy su Tomcat](https://www.emmecilab.net/esercitazioni-di-spring-boot-6-fare-il-deploy-su-tomcat/)
+* [Esercitazioni di Spring Boot 7: qualche aggiustamento](https://www.emmecilab.net/esercitazioni-di-spring-boot-7-qualche-aggiustamento/)
