@@ -11,3 +11,8 @@ Questo repository contiene il codice relativo ad una serie di esercitazioni su S
 * [Esercitazioni di Spring Boot 6: fare il deploy su Tomcat](https://www.emmecilab.net/esercitazioni-di-spring-boot-6-fare-il-deploy-su-tomcat/)
 * [Esercitazioni di Spring Boot 7: qualche aggiustamento](https://www.emmecilab.net/esercitazioni-di-spring-boot-7-qualche-aggiustamento/)
 * [Esercitazioni di Spring Boot 8: H2 un database in-memory](https://www.emmecilab.net/esercitazioni-di-spring-boot-8-h2-un-database-in-memory/)
+
+
+* [Spring Boot: come pianificare l’esecuzione di task](https://www.emmecilab.net/spring-boot-come-pianificare-lesecuzione-di-task/)
+* [Spring Boot: leggere da application.properties](https://www.emmecilab.net/spring-boot-leggere-da-application-properties/)
+* [Spring Boot: inizializzazioni con @PostConstruct](https://www.emmecilab.net/spring-boot-inizializzazioni-con-postconstruct/)
