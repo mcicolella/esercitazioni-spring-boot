@@ -1,0 +1,19 @@
+type Query {
+    player(id: ID!): Player
+    findAllPlayers: [Player]!
+}
+
+type Player {
+    id: ID!
+    firstName: String!
+    lastName: String!
+    team: String!
+    position: String!
+}
+
+type Mutation {
+    newPlayer(firstName: String!, LastName: String!, team: String!, position: String!): Player!
+    updatePlayer(id: ID!, firstName: String!, LastName: String!, team: String!, position: String!): Player
+    deletePlayer(id: ID): Boolean!
+}
+
