@@ -5,7 +5,7 @@ Questo repository contiene il codice relativo ad una serie di esercitazioni su S
 * [Esercitazioni di Spring Boot 0: come impostare un progetto](https://www.emmecilab.net/blog/esercitazioni-di-spring-boot-0-come-impostare-un-progetto/) -  [:movie_camera:](https://www.youtube.com/watch?v=VkRUciKAG_Q)
 * [Esercitazioni di Spring Boot 1: anatomia di un progetto](https://www.emmecilab.net/blog/esercitazioni-di-spring-boot-1-anatomia-di-un-progetto/)
 * [Esercitazioni di Spring Boot 2: il nostro primo controller REST](https://www.emmecilab.net/blog/esercitazioni-di-spring-boot-2-il-nostro-primo-controller-rest/) - [:movie_camera:](https://www.youtube.com/watch?v=wvJZKzHUuKM)
-* [Esercitazioni di Spring Boot 3: gestiamo la logica di business](https://www.emmecilab.net/blog/esercitazioni-di-spring-boot-3-gestiamo-la-logica-di-business/)
+* [Esercitazioni di Spring Boot 3: gestiamo la logica di business](https://www.emmecilab.net/blog/esercitazioni-di-spring-boot-3-gestiamo-la-logica-di-business/) - [:movie_camera:](https://youtu.be/Dormzcapp2Q)
 * [Esercitazioni di Spring Boot 4: lavorare con i database](https://www.emmecilab.net/blog/esercitazioni-di-spring-boot-4-lavorare-con-i-database/)
 * [Esercitazioni di Spring Boot 5: documentiamo le API](https://www.emmecilab.net/blog/esercitazioni-di-spring-boot-5-documentiamo-le-api/)
 * [Esercitazioni di Spring Boot 6: fare il deploy su Tomcat](https://www.emmecilab.net/blog/esercitazioni-di-spring-boot-6-fare-il-deploy-su-tomcat/)
