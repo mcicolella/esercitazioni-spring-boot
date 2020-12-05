@@ -1,11 +1,8 @@
 package net.emmecilab.players.services;
 
-import net.emmecilab.players.services.PlayerService;
 import net.emmecilab.players.repositories.PlayerRepository;
-import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.List;
-import net.emmecilab.players.models.Player;
+import java.util.Optional;
 import net.emmecilab.players.models.Player;
 import org.springframework.beans.factory.annotation.Autowired;
 
@@ -22,7 +19,12 @@ public class PlayerServiceDB implements PlayerService {
     }
 
     public Player getPlayer(Long id) {
-        return playerRepository.findOne(id);
+        Optional<Player> player = this.playerRepository.findById(id);
+        if (player.isPresent()) {
+            return player.get();
+        } else {
+            return null;
+        }
     }
 
     public void addPlayer(Player player) {
@@ -34,7 +36,7 @@ public class PlayerServiceDB implements PlayerService {
     }
 
     public void deletePlayer(Long id) {
-        playerRepository.delete(id);
+        playerRepository.deleteById(id);
     }
 
 }
