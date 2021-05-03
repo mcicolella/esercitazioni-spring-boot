@@ -12,7 +12,7 @@ Questo repository contiene il codice relativo ad una serie di esercitazioni su S
 * [Esercitazioni di Spring Boot 7: qualche aggiustamento](https://www.emmecilab.net/blog/esercitazioni-di-spring-boot-7-qualche-aggiustamento/)
 * [Esercitazioni di Spring Boot 8: H2 un database in-memory](https://www.emmecilab.net/blog/esercitazioni-di-spring-boot-8-h2-un-database-in-memory/) - [:movie_camera:](https://youtu.be/P5mloolmYnM)
 * [Esercitazioni di Spring Boot 9: è l’ora della sicurezza](https://www.emmecilab.net/blog/esercitazioni-di-spring-boot-9-e-lora-della-sicurezza/) - [:movie_camera:](https://youtu.be/r8KMsuqDodo)
-* [Esercitazioni di Spring Boot 10: usiamo la cache](https://www.emmecilab.net/blog/esercitazioni-di-spring-boot-10-usiamo-la-cache/)
+* [Esercitazioni di Spring Boot 10: usiamo la cache](https://www.emmecilab.net/blog/esercitazioni-di-spring-boot-10-usiamo-la-cache/) - [:movie_camera:](https://youtu.be/dFBPkb9qkh4)
 
 ## Concetti di Spring Boot
 
