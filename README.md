@@ -2,6 +2,11 @@
 
 Questo repository contiene il codice relativo ad una serie di esercitazioni su Spring Boot pubblicate sul mio blog.
 
+<p>
+  <a href="https://www.linkedin.com/in/mauro-cicolella-0b107076/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
+    <a href="https://twitter.com/emmecilab"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a>
+  <a href="https://www.youtube.com/c/emmecilab"><img src="https://img.shields.io/badge/youtube-%23E4405F.svg?&style=for-the-badge&logo=youtube&logoColor=white" height=25></a>
+
 * [Esercitazioni di Spring Boot 0: come impostare un progetto](https://www.emmecilab.net/blog/esercitazioni-di-spring-boot-0-come-impostare-un-progetto/) -  [:movie_camera:](https://www.youtube.com/watch?v=VkRUciKAG_Q)
 * [Esercitazioni di Spring Boot 1: anatomia di un progetto](https://www.emmecilab.net/blog/esercitazioni-di-spring-boot-1-anatomia-di-un-progetto/)
 * [Esercitazioni di Spring Boot 2: il nostro primo controller REST](https://www.emmecilab.net/blog/esercitazioni-di-spring-boot-2-il-nostro-primo-controller-rest/) - [:movie_camera:](https://www.youtube.com/watch?v=wvJZKzHUuKM)
@@ -27,8 +32,3 @@ Questo repository contiene il codice relativo ad una serie di esercitazioni su S
 * Spring Boot: @Controller vs @RestController - [:movie_camera:](https://youtu.be/brYFW9NmM4A)
 * Spring Boot: come impostare un banner personalizzato - [:movie_camera:](https://youtu.be/3Bj3m7XB1d4)
 
-
-
-## Get in touch
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mcicolella)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mauro-cicolella-0b107076//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/EmmeCiLab-114063663344644)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@emmecilab)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.emmecilab.net) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='website' height='40'>](https://www.youtube.com/c/emmecilab) 
