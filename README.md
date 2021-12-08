@@ -5,7 +5,7 @@ Questo repository contiene il codice relativo ad una serie di esercitazioni su S
 <p>
   <a href="https://www.linkedin.com/in/mauro-cicolella-0b107076/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
     <a href="https://twitter.com/emmecilab"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a>
-  <a href="https://www.youtube.com/c/emmecilab"><img src="https://img.shields.io/badge/youtube-%23E4405F.svg?&style=for-the-badge&logo=youtube&logoColor=white" height=25></a>
+  <a href="https://www.youtube.com/c/emmecilab?sub_confirmation=1"><img src="https://img.shields.io/badge/youtube-%23E4405F.svg?&style=for-the-badge&logo=youtube&logoColor=white" height=25></a>
 
 * [Esercitazioni di Spring Boot 0: come impostare un progetto](https://www.emmecilab.net/blog/esercitazioni-di-spring-boot-0-come-impostare-un-progetto/) -  [:movie_camera:](https://www.youtube.com/watch?v=VkRUciKAG_Q)
 * [Esercitazioni di Spring Boot 1: anatomia di un progetto](https://www.emmecilab.net/blog/esercitazioni-di-spring-boot-1-anatomia-di-un-progetto/)
