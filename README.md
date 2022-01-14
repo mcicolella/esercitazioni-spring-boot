@@ -31,4 +31,5 @@ Questo repository contiene il codice relativo ad una serie di esercitazioni su S
 * Spring Boot: installare Lombok su Eclipse - [:movie_camera:](https://youtu.be/zB2WWsNxpNo)
 * Spring Boot: @Controller vs @RestController - [:movie_camera:](https://youtu.be/brYFW9NmM4A)
 * Spring Boot: come impostare un banner personalizzato - [:movie_camera:](https://youtu.be/3Bj3m7XB1d4)
+* Spring Boot: deploy di una applicazione su App Platform by DigitalOcean - [:movie_camera:](https://youtu.be/UI7Mdhkg4-g)
 
