@@ -33,3 +33,10 @@ Questo repository contiene il codice relativo ad una serie di esercitazioni su S
 * Spring Boot: come impostare un banner personalizzato - [:movie_camera:](https://youtu.be/3Bj3m7XB1d4)
 * Spring Boot: deploy di una applicazione su App Platform by DigitalOcean - [:movie_camera:](https://youtu.be/UI7Mdhkg4-g)
 
+## Corso di Spring Framework
+
+- [Corso di Spring Java Framework #1: una panoramica](https://youtu.be/_4QFC_LB9OQ)
+- [Corso di Java Spring Framework #2: convention over configuration](https://youtu.be/OeSgB4my-4U)
+- [Corso di Java Spring Framework #3: Inversion of Control vs Dependency Injection](https://youtu.be/jVzPUh_1mPo)
+- [Corso di Java Spring Framework #4: Bean (prima parte)](https://youtu.be/mxPUSiPiOLU)
+- [Corso di Java Spring Framework #5: Bean (seconda parte)](https://youtu.be/j-NrW-0_8BE)
