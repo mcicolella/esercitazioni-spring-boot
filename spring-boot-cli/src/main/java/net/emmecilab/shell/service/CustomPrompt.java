@@ -1,4 +1,4 @@
-package net.emmecilab.cli.service;
+package net.emmecilab.shell.service;
 
 
 import org.jline.utils.AttributedString;
