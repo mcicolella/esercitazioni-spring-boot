@@ -15,7 +15,7 @@ public class Publisher {
 
 	@Scheduled(fixedDelay = 5000)
 	public void publishMessage() {
-	    String message = "Message published on" + LocalDateTime.now();
+	    String message = "Message published on " + LocalDateTime.now();
 	    rabbitTemplate.convertAndSend("test", message);
 	}
 }
