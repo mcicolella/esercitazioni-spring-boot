@@ -32,7 +32,7 @@ Questo repository contiene il codice relativo ad una serie di esercitazioni su S
 * Spring Boot: @Controller vs @RestController - [:movie_camera:](https://youtu.be/brYFW9NmM4A)
 * Spring Boot: come impostare un banner personalizzato - [:movie_camera:](https://youtu.be/3Bj3m7XB1d4)
 * Spring Boot: deploy di una applicazione su App Platform by DigitalOcean - [:movie_camera:](https://youtu.be/UI7Mdhkg4-g)
-* [Spring Boot e RabbitMQ](https://www.emmecilab.net/blog/spring-boot-e-rabbitmq)  
+* [Spring Boot e RabbitMQ](https://www.emmecilab.net/blog/spring-boot-e-rabbitmq) - [:movie_camera:](https://youtu.be/lY9FVHt1o3k)
 
 ## Video Corso di Spring Framework
 
