@@ -8,7 +8,7 @@ Questo repository contiene il codice relativo ad una serie di esercitazioni su S
   <a href="https://www.youtube.com/c/emmecilab?sub_confirmation=1"><img src="https://img.shields.io/badge/youtube-%23E4405F.svg?&style=for-the-badge&logo=youtube&logoColor=white" height=25></a>
 
 * [Esercitazioni di Spring Boot 0: come impostare un progetto](https://www.emmecilab.net/blog/esercitazioni-di-spring-boot-0-come-impostare-un-progetto/) -  [:movie_camera:](https://www.youtube.com/watch?v=VkRUciKAG_Q)
-* [Esercitazioni di Spring Boot 1: anatomia di un progetto](https://www.emmecilab.net/blog/esercitazioni-di-spring-boot-1-anatomia-di-un-progetto/)
+* [Esercitazioni di Spring Boot 1: anatomia di un progetto](https://www.emmecilab.net/blog/esercitazioni-di-spring-boot-1-anatomia-di-un-progetto/) - [:movie_camera:](https://youtu.be/PgwUcBy5UwA)
 * [Esercitazioni di Spring Boot 2: il nostro primo controller REST](https://www.emmecilab.net/blog/esercitazioni-di-spring-boot-2-il-nostro-primo-controller-rest/) - [:movie_camera:](https://www.youtube.com/watch?v=wvJZKzHUuKM)
 * [Esercitazioni di Spring Boot 3: gestiamo la logica di business](https://www.emmecilab.net/blog/esercitazioni-di-spring-boot-3-gestiamo-la-logica-di-business/) - [:movie_camera:](https://youtu.be/Dormzcapp2Q)
 * [Esercitazioni di Spring Boot 4: lavorare con i database](https://www.emmecilab.net/blog/esercitazioni-di-spring-boot-4-lavorare-con-i-database/) - [:movie_camera:](https://youtu.be/fe9rWhswl3k)
