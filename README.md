@@ -33,6 +33,9 @@ Questo repository contiene il codice relativo ad una serie di esercitazioni su S
 * Spring Boot: come impostare un banner personalizzato - [:movie_camera:](https://youtu.be/3Bj3m7XB1d4)
 * Spring Boot: deploy di una applicazione su App Platform by DigitalOcean - [:movie_camera:](https://youtu.be/UI7Mdhkg4-g)
 * [Spring Boot e RabbitMQ](https://www.emmecilab.net/blog/spring-boot-e-rabbitmq) - [:movie_camera:](https://youtu.be/09OPikwK05M)
+* Integrazione piattaforma PayPal #1: impostiamo la sandbox - - [:movie_camera:](https://youtu.be/rmq14D10Gl0)
+* Applicazioni sicure con Keycloack e Docker - [:movie_camera:](https://youtu.be/2_nnPboQd5w)
+* AOP Aspect Oriented Programming in Spring #1 - [:movie_camera:](https://youtu.be/8OKC3c6ryKg)
 
 ## Video Corso di Spring Framework
 
