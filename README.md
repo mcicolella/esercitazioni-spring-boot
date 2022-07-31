@@ -24,10 +24,8 @@ Questo repository contiene il codice relativo ad una serie di esercitazioni su S
 * [Spring Boot: come pianificare l’esecuzione di task](https://www.emmecilab.net/blog/spring-boot-come-pianificare-lesecuzione-di-task/) - [:movie_camera:](https://youtu.be/LymjmNMu-6A)
 * [Spring Boot: leggere da application.properties](https://www.emmecilab.net/blog/spring-boot-leggere-da-application-properties/)
 * [Spring Boot: inizializzazioni con @PostConstruct](https://www.emmecilab.net/blog/spring-boot-inizializzazioni-con-postconstruct/)
-* [Spring  Boot incontra Docker](https://www.emmecilab.net/blog/spring-boot-incontra-docker/) - [:movie_camera:](https://youtu.be/unnPZUBO5K8
-)
+* [Spring  Boot incontra Docker](https://www.emmecilab.net/blog/spring-boot-incontra-docker/) - [:movie_camera:](https://youtu.be/unnPZUBO5K8)
 * [Spring  Boot incontra Docker 2: multistage per immagini light](https://www.emmecilab.net/blog/spring-boot-incontra-docker-2-multi-stage-per-immagini-light)
-https://www.emmecilab.net/blog/spring-boot-incontra-docker-2-multi-stage-per-immagini-light
 * Spring Boot: come sostituire il webserver embedded - [:movie_camera:](https://youtu.be/hyU3qfAcnxM)
 * Spring Boot: gestire i progetti con Eclipse e il plugin STS - [:movie_camera:](https://youtu.be/uamAHFD5yBA)
 * Spring Boot: installare Lombok su Eclipse - [:movie_camera:](https://youtu.be/zB2WWsNxpNo)
