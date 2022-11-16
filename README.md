@@ -47,3 +47,7 @@ Questo repository contiene il codice relativo ad una serie di esercitazioni su S
 - [Corso di Java Spring Framework #6: alla scoperta di Spring Boot](https://youtu.be/cZcZanMXq7A)
 - [Corso di Java Spring Framework #7: bean loading](https://youtu.be/Vs76qrF0TBM)
 
+
+## Flashcard Anki
+    
+- [Lista flashcard disponibili](https://www.emmecilab.net/blog/flashcard-anki)
