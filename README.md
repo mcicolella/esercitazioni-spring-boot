@@ -35,6 +35,7 @@ Questo repository contiene il codice relativo ad una serie di esercitazioni su S
 * Integrazione piattaforma PayPal #1: impostiamo la sandbox - - [:movie_camera:](https://youtu.be/rmq14D10Gl0)
 * Applicazioni sicure con Keycloack e Docker - [:movie_camera:](https://youtu.be/2_nnPboQd5w)
 * AOP Aspect Oriented Programming in Spring #1 - [:movie_camera:](https://youtu.be/8OKC3c6ryKg)
+* [AOP Aspect Oriented Programming in Spring #2: un esempio pratico](https://www.emmecilab.net/blog/un-esempio-pratico-di-aop-aspect-oriented-programming-in-spring) - [:movie_camera:](https://youtu.be/Z6kYS5MEVus)
 
 ## Video Corso di Spring Framework
 
@@ -44,4 +45,5 @@ Questo repository contiene il codice relativo ad una serie di esercitazioni su S
 - [Corso di Java Spring Framework #4: Bean (prima parte)](https://www.emmecilab.net/blog/corso-di-java-spring-framework-4-bean-prima-parte) - [:movie_camera:](https://youtu.be/mxPUSiPiOLU)
 - [Corso di Java Spring Framework #5: Bean (seconda parte)](https://youtu.be/j-NrW-0_8BE)
 - [Corso di Java Spring Framework #6: alla scoperta di Spring Boot](https://youtu.be/cZcZanMXq7A)
+- [Corso di Java Spring Framework #7: bean loading](https://youtu.be/Vs76qrF0TBM)
 
