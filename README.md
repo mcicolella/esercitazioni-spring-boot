@@ -46,6 +46,7 @@ Questo repository contiene il codice relativo ad una serie di esercitazioni su S
 - [Corso di Java Spring Framework #5: Bean (seconda parte)](https://youtu.be/j-NrW-0_8BE)
 - [Corso di Java Spring Framework #6: alla scoperta di Spring Boot](https://youtu.be/cZcZanMXq7A)
 - [Corso di Java Spring Framework #7: bean loading](https://youtu.be/Vs76qrF0TBM)
+- [Corso di Java Spring Framework: risolvere le ambiguità con @Primary e @Qualifier](https://youtu.be/7O9bYs29CjE)
 
 
 ## Flashcard Anki
