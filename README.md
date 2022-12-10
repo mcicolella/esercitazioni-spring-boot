@@ -36,6 +36,7 @@ Questo repository contiene il codice relativo ad una serie di esercitazioni su S
 * Applicazioni sicure con Keycloack e Docker - [:movie_camera:](https://youtu.be/2_nnPboQd5w)
 * AOP Aspect Oriented Programming in Spring #1 - [:movie_camera:](https://youtu.be/8OKC3c6ryKg)
 * [AOP Aspect Oriented Programming in Spring #2: un esempio pratico](https://www.emmecilab.net/blog/un-esempio-pratico-di-aop-aspect-oriented-programming-in-spring) - [:movie_camera:](https://youtu.be/Z6kYS5MEVus)
+* Come migrare a Spring Boot 3 - [:movie_camera:](https://youtu.be/lqrilogi2Ys)
 
 ## Video Corso di Spring Framework
 
