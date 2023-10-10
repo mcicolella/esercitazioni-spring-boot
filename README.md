@@ -42,14 +42,20 @@ Questo repository contiene il codice relativo ad una serie di esercitazioni su S
 
 ## Video Corso di Spring Framework
 
-- [Corso di Spring Java Framework #1: una panoramica](https://www.emmecilab.net/blog/corso-di-java-spring-framework-1-una-panoramica) - [:movie_camera:](https://youtu.be/_4QFC_LB9OQ)
-- [Corso di Java Spring Framework #2: convention over configuration](https://www.emmecilab.net/blog/corso-di-java-spring-framework-2-convention-over-configuration) - [:movie_camera:](https://youtu.be/OeSgB4my-4U)
-- [Corso di Java Spring Framework #3: Inversion of Control vs Dependency Injection](https://www.emmecilab.net/blog/corso-di-java-spring-framework-3-inversion-of-control-vs-dependency-injection) - [:movie_camera:](https://youtu.be/jVzPUh_1mPo)
-- [Corso di Java Spring Framework #4: Bean (prima parte)](https://www.emmecilab.net/blog/corso-di-java-spring-framework-4-bean-prima-parte) - [:movie_camera:](https://youtu.be/mxPUSiPiOLU)
-- [Corso di Java Spring Framework #5: Bean (seconda parte)](https://youtu.be/j-NrW-0_8BE)
-- [Corso di Java Spring Framework #6: alla scoperta di Spring Boot](https://youtu.be/cZcZanMXq7A)
-- [Corso di Java Spring Framework #7: bean loading](https://youtu.be/Vs76qrF0TBM)
-- [Corso di Java Spring Framework: risolvere le ambiguità con @Primary e @Qualifier](https://youtu.be/7O9bYs29CjE)
+- [Corso di Spring Java Framework #1 | Una panoramica](https://www.emmecilab.net/blog/corso-di-java-spring-framework-1-una-panoramica) - [:movie_camera:](https://youtu.be/_4QFC_LB9OQ)
+- [Corso di Java Spring Framework #2 | Convention over configuration](https://www.emmecilab.net/blog/corso-di-java-spring-framework-2-convention-over-configuration) - [:movie_camera:](https://youtu.be/OeSgB4my-4U)
+- [Corso di Java Spring Framework #3 | Inversion of Control vs Dependency Injection](https://www.emmecilab.net/blog/corso-di-java-spring-framework-3-inversion-of-control-vs-dependency-injection) - [:movie_camera:](https://youtu.be/jVzPUh_1mPo)
+- [Corso di Java Spring Framework #4 | Bean (prima parte)](https://www.emmecilab.net/blog/corso-di-java-spring-framework-4-bean-prima-parte) - [:movie_camera:](https://youtu.be/mxPUSiPiOLU)
+- Corso di Java Spring Framework #5 | Bean (seconda parte) - [:movie_camera:](https://youtu.be/j-NrW-0_8BE)
+- Corso di Java Spring Framework #6 | Alla scoperta di Spring Boot - [:movie_camera:](https://youtu.be/cZcZanMXq7A)
+- Corso di Java Spring Framework #7 | Bean loading - [:movie_camera:](https://youtu.be/Vs76qrF0TBM)
+- Corso di Java Spring Framework #8 | Modalità di Dependency Injection - [:movie_camera:](https://youtu.be/DRDmMJHV4rc)
+- Corso di Java Spring Framework #9 | Dependency Injection in pratica - [:movie_camera:](https://youtu.be/c74ZhXgQnXw)
+- Corso di Java Spring Framework #10: Dipendenze circolari - [:movie_camera:](https://youtu.be/UlOQifvZ0qg)
+- Corso di Java Spring Framework #11 | Risolvere le ambiguità con @Primary e @Qualifier - [:movie_camera:](https://youtu.be/7O9bYs29CjE)
+- Corso di Java Spring Framework #12 | Scope dei bean (singleton) - [:movie_camera:](https://youtu.be/yXxRVJhGtmA)
+- Corso di Java Spring Framework #13 | Scope dei bean (prototype) - [:movie_camera:](https://youtu.be/XcjjigAxvUQ)
+- Corso di Java Spring Framework #14 | Gestire l'ordine di creazione dei bean - [:movie_camera:](https://youtu.be/puaOQq2TcJA)
 
 
 ## Flashcard Anki
