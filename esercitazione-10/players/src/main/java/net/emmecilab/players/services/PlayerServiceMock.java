@@ -1,6 +1,5 @@
 package net.emmecilab.players.services;
 
-import net.emmecilab.players.services.PlayerService;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
