@@ -1,7 +1,5 @@
 package net.emmecilab.keycloack.controller;
 
-import javax.servlet.http.HttpServletRequest;
-
 import org.springframework.security.access.prepost.PreAuthorize;
 import org.springframework.security.core.Authentication;
 import org.springframework.security.core.context.SecurityContextHolder;

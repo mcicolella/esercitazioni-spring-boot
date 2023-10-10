@@ -1,6 +1,5 @@
 package net.emmecilab.players.components;
 
-import javax.annotation.PostConstruct;
 import net.emmecilab.players.models.Player;
 import net.emmecilab.players.repositories.PlayerRepository;
 import org.springframework.beans.factory.annotation.Autowired;
