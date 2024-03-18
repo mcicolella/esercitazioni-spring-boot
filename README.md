@@ -6,7 +6,6 @@ Questo repository contiene il codice relativo ad una serie di esercitazioni su S
   <a href="https://www.linkedin.com/in/mauro-cicolella-0b107076/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
     <a href="https://twitter.com/emmecilab"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a>
   <a href="https://www.youtube.com/c/emmecilab?sub_confirmation=1"><img src="https://img.shields.io/badge/youtube-%23E4405F.svg?&style=for-the-badge&logo=youtube&logoColor=white" height=25>
-  <a href="https://www.patreon.com/emmecilab"><img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" height=25></a>
 
 * [Esercitazioni di Spring Boot 0: come impostare un progetto](https://www.emmecilab.net/blog/esercitazioni-di-spring-boot-0-come-impostare-un-progetto/) -  [:movie_camera:](https://www.youtube.com/watch?v=VkRUciKAG_Q)
 * [Esercitazioni di Spring Boot 1: anatomia di un progetto](https://www.emmecilab.net/blog/esercitazioni-di-spring-boot-1-anatomia-di-un-progetto/) - [:movie_camera:](https://youtu.be/PgwUcBy5UwA)
@@ -38,6 +37,8 @@ Questo repository contiene il codice relativo ad una serie di esercitazioni su S
 * [AOP Aspect Oriented Programming in Spring #2: un esempio pratico](https://www.emmecilab.net/blog/un-esempio-pratico-di-aop-aspect-oriented-programming-in-spring) - [:movie_camera:](https://youtu.be/Z6kYS5MEVus)
 * Come migrare a Spring Boot 3 - [:movie_camera:](https://youtu.be/lqrilogi2Ys)
 * Spring Boot DevTools - [:movie_camera:](https://youtu.be/Bj5VdwLu6ZI)
+* Deploy di una applicazione Spring Boot su Jelastic Cloud PaaS - [:movie_camera:](https://youtu.be/VxcpjCbu0BE)
+
 
 
 ## Video Corso di Spring Framework
