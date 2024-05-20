@@ -36,7 +36,7 @@ Questo repository contiene il codice relativo ad una serie di esercitazioni su S
 * AOP Aspect Oriented Programming in Spring #1 - [:movie_camera:](https://youtu.be/8OKC3c6ryKg)
 * [AOP Aspect Oriented Programming in Spring #2: un esempio pratico](https://www.emmecilab.net/blog/un-esempio-pratico-di-aop-aspect-oriented-programming-in-spring) - [:movie_camera:](https://youtu.be/Z6kYS5MEVus)
 * Come migrare a Spring Boot 3 - [:movie_camera:](https://youtu.be/lqrilogi2Ys)
-* Spring Boot DevTools - [:movie_camera:](https://youtu.be/Bj5VdwLu6ZI)
+* [Spring Boot DevTools](https://www.emmecilab.net/blog/spring-boot-devtools) - [:movie_camera:](https://youtu.be/Bj5VdwLu6ZI)
 * Deploy di una applicazione Spring Boot su Jelastic Cloud PaaS - [:movie_camera:](https://youtu.be/VxcpjCbu0BE)
 
 
